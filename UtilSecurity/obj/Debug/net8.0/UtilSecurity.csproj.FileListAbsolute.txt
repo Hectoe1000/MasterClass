@@ -1,0 +1,12 @@
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\UtilSecurity\bin\Debug\net8.0\UtilSecurity.deps.json
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\UtilSecurity\bin\Debug\net8.0\UtilSecurity.dll
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\UtilSecurity\bin\Debug\net8.0\UtilSecurity.pdb
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\UtilSecurity\obj\Debug\net8.0\UtilSecurity.csproj.AssemblyReference.cache
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\UtilSecurity\obj\Debug\net8.0\UtilSecurity.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\UtilSecurity\obj\Debug\net8.0\UtilSecurity.AssemblyInfoInputs.cache
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\UtilSecurity\obj\Debug\net8.0\UtilSecurity.AssemblyInfo.cs
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\UtilSecurity\obj\Debug\net8.0\UtilSecurity.csproj.CoreCompileInputs.cache
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\UtilSecurity\obj\Debug\net8.0\UtilSecurity.dll
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\UtilSecurity\obj\Debug\net8.0\refint\UtilSecurity.dll
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\UtilSecurity\obj\Debug\net8.0\UtilSecurity.pdb
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\UtilSecurity\obj\Debug\net8.0\ref\UtilSecurity.dll
