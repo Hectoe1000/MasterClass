@@ -162,3 +162,4 @@ F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\Master\obj\Debug\net8.0\refint\Maste
 F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\Master\obj\Debug\net8.0\Master.pdb
 F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\Master\obj\Debug\net8.0\Master.genruntimeconfig.cache
 F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\Master\obj\Debug\net8.0\ref\Master.dll
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\Master\obj\Debug\net8.0\Master.sourcelink.json

@@ -15,3 +15,4 @@ F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\IBussniess\obj\Debug\net8.0\IBussnie
 F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\IBussniess\obj\Debug\net8.0\refint\IBussniess.dll
 F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\IBussniess\obj\Debug\net8.0\IBussniess.pdb
 F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\IBussniess\obj\Debug\net8.0\ref\IBussniess.dll
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\IBussniess\obj\Debug\net8.0\IBussniess.sourcelink.json

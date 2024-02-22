@@ -17,3 +17,4 @@ F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\Repository\obj\Debug\net8.0\refint\R
 F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\Repository\obj\Debug\net8.0\Repository.pdb
 F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\Repository\obj\Debug\net8.0\Repository.genruntimeconfig.cache
 F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\Repository\obj\Debug\net8.0\ref\Repository.dll
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\Repository\obj\Debug\net8.0\Repository.sourcelink.json

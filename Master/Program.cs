@@ -1,4 +1,6 @@
 
+using UtilitarioAutomapper;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -7,7 +9,8 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 
-
+//ESTA LINEA NOS SIRVE PARA CONFIGURAR NUESTRO AUTOMAPPER
+builder.Services.AddAutoMapper(typeof(IStartup).Assembly, typeof(AutoMapperProfiles).Assembly);
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();

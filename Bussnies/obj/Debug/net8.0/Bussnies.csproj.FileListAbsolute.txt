@@ -33,3 +33,4 @@ F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\Bussnies\obj\Debug\net8.0\Bussnies.d
 F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\Bussnies\obj\Debug\net8.0\refint\Bussnies.dll
 F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\Bussnies\obj\Debug\net8.0\Bussnies.pdb
 F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\Bussnies\obj\Debug\net8.0\ref\Bussnies.dll
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\Bussnies\obj\Debug\net8.0\Bussnies.sourcelink.json

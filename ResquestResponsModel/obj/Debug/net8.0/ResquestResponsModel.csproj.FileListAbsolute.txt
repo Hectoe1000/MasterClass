@@ -10,3 +10,4 @@ F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\ResquestResponsModel\obj\Debug\net8.
 F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\ResquestResponsModel\obj\Debug\net8.0\refint\ResquestResponsModel.dll
 F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\ResquestResponsModel\obj\Debug\net8.0\ResquestResponsModel.pdb
 F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\ResquestResponsModel\obj\Debug\net8.0\ref\ResquestResponsModel.dll
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\ResquestResponsModel\obj\Debug\net8.0\ResquestResponsModel.sourcelink.json

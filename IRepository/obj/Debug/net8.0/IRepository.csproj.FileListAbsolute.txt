@@ -13,3 +13,4 @@ F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\IRepository\obj\Debug\net8.0\IReposi
 F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\IRepository\obj\Debug\net8.0\refint\IRepository.dll
 F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\IRepository\obj\Debug\net8.0\IRepository.pdb
 F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\IRepository\obj\Debug\net8.0\ref\IRepository.dll
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\IRepository\obj\Debug\net8.0\IRepository.sourcelink.json

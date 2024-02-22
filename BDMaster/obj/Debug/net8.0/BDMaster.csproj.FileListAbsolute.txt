@@ -12,3 +12,4 @@ F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\BDMaster\obj\Debug\net8.0\refint\BDM
 F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\BDMaster\obj\Debug\net8.0\BDMaster.pdb
 F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\BDMaster\obj\Debug\net8.0\BDMaster.genruntimeconfig.cache
 F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\BDMaster\obj\Debug\net8.0\ref\BDMaster.dll
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\BDMaster\obj\Debug\net8.0\BDMaster.sourcelink.json
