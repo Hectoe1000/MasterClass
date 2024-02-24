@@ -1,0 +1,220 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main\\IBussniess\\IBussniess.csproj": {}
+  },
+  "projects": {
+    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main\\BDMaster\\BDMaster.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main\\BDMaster\\BDMaster.csproj",
+        "projectName": "BDMaster",
+        "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main\\BDMaster\\BDMaster.csproj",
+        "packagesPath": "C:\\Users\\flans\\.nuget\\packages\\",
+        "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main\\BDMaster\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\flans\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main\\IBussniess\\IBussniess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main\\IBussniess\\IBussniess.csproj",
+        "projectName": "IBussniess",
+        "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main\\IBussniess\\IBussniess.csproj",
+        "packagesPath": "C:\\Users\\flans\\.nuget\\packages\\",
+        "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main\\IBussniess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\flans\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main\\BDMaster\\BDMaster.csproj": {
+                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main\\BDMaster\\BDMaster.csproj"
+              },
+              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main\\ResquestResponsModel\\ResquestResponsModel.csproj": {
+                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main\\ResquestResponsModel\\ResquestResponsModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main\\ResquestResponsModel\\ResquestResponsModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main\\ResquestResponsModel\\ResquestResponsModel.csproj",
+        "projectName": "ResquestResponsModel",
+        "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main\\ResquestResponsModel\\ResquestResponsModel.csproj",
+        "packagesPath": "C:\\Users\\flans\\.nuget\\packages\\",
+        "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main\\ResquestResponsModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\flans\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
