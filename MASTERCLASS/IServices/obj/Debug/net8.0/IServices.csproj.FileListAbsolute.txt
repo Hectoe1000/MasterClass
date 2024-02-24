@@ -1,0 +1,12 @@
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\IServices\bin\Debug\net8.0\IServices.deps.json
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\IServices\bin\Debug\net8.0\IServices.dll
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\IServices\bin\Debug\net8.0\IServices.pdb
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\IServices\obj\Debug\net8.0\IServices.csproj.AssemblyReference.cache
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\IServices\obj\Debug\net8.0\IServices.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\IServices\obj\Debug\net8.0\IServices.AssemblyInfoInputs.cache
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\IServices\obj\Debug\net8.0\IServices.AssemblyInfo.cs
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\IServices\obj\Debug\net8.0\IServices.csproj.CoreCompileInputs.cache
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\IServices\obj\Debug\net8.0\IServices.dll
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\IServices\obj\Debug\net8.0\refint\IServices.dll
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\IServices\obj\Debug\net8.0\IServices.pdb
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\IServices\obj\Debug\net8.0\ref\IServices.dll

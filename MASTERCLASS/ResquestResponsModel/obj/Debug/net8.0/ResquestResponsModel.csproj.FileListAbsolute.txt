@@ -1,0 +1,12 @@
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\ResquestResponsModel\bin\Debug\net8.0\ResquestResponsModel.deps.json
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\ResquestResponsModel\bin\Debug\net8.0\ResquestResponsModel.dll
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\ResquestResponsModel\bin\Debug\net8.0\ResquestResponsModel.pdb
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\ResquestResponsModel\obj\Debug\net8.0\ResquestResponsModel.csproj.AssemblyReference.cache
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\ResquestResponsModel\obj\Debug\net8.0\ResquestResponsModel.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\ResquestResponsModel\obj\Debug\net8.0\ResquestResponsModel.AssemblyInfoInputs.cache
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\ResquestResponsModel\obj\Debug\net8.0\ResquestResponsModel.AssemblyInfo.cs
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\ResquestResponsModel\obj\Debug\net8.0\ResquestResponsModel.csproj.CoreCompileInputs.cache
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\ResquestResponsModel\obj\Debug\net8.0\ResquestResponsModel.dll
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\ResquestResponsModel\obj\Debug\net8.0\refint\ResquestResponsModel.dll
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\ResquestResponsModel\obj\Debug\net8.0\ResquestResponsModel.pdb
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\ResquestResponsModel\obj\Debug\net8.0\ref\ResquestResponsModel.dll

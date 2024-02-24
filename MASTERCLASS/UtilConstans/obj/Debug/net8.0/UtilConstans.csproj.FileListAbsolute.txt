@@ -1,0 +1,12 @@
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\UtilConstans\bin\Debug\net8.0\UtilConstans.deps.json
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\UtilConstans\bin\Debug\net8.0\UtilConstans.dll
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\UtilConstans\bin\Debug\net8.0\UtilConstans.pdb
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\UtilConstans\obj\Debug\net8.0\UtilConstans.csproj.AssemblyReference.cache
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\UtilConstans\obj\Debug\net8.0\UtilConstans.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\UtilConstans\obj\Debug\net8.0\UtilConstans.AssemblyInfoInputs.cache
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\UtilConstans\obj\Debug\net8.0\UtilConstans.AssemblyInfo.cs
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\UtilConstans\obj\Debug\net8.0\UtilConstans.csproj.CoreCompileInputs.cache
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\UtilConstans\obj\Debug\net8.0\UtilConstans.dll
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\UtilConstans\obj\Debug\net8.0\refint\UtilConstans.dll
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\UtilConstans\obj\Debug\net8.0\UtilConstans.pdb
+F:\Proyects_VisualStudi\BACKEND\MASTERCLASS\UtilConstans\obj\Debug\net8.0\ref\UtilConstans.dll
