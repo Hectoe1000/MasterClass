@@ -18,6 +18,7 @@ F:\Proyects_VisualStudi\BACKEND\MasterClass-main\IServices\obj\Debug\net8.0\ISer
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\IServices\obj\Debug\net8.0\IServices.AssemblyInfoInputs.cache
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\IServices\obj\Debug\net8.0\IServices.AssemblyInfo.cs
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\IServices\obj\Debug\net8.0\IServices.csproj.CoreCompileInputs.cache
+F:\Proyects_VisualStudi\BACKEND\MasterClass-main\IServices\obj\Debug\net8.0\IServices.sourcelink.json
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\IServices\obj\Debug\net8.0\IServices.dll
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\IServices\obj\Debug\net8.0\refint\IServices.dll
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\IServices\obj\Debug\net8.0\IServices.pdb

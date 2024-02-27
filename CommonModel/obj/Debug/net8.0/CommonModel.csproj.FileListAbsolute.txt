@@ -18,6 +18,7 @@ F:\Proyects_VisualStudi\BACKEND\MasterClass-main\CommonModel\obj\Debug\net8.0\Co
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\CommonModel\obj\Debug\net8.0\CommonModel.AssemblyInfoInputs.cache
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\CommonModel\obj\Debug\net8.0\CommonModel.AssemblyInfo.cs
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\CommonModel\obj\Debug\net8.0\CommonModel.csproj.CoreCompileInputs.cache
+F:\Proyects_VisualStudi\BACKEND\MasterClass-main\CommonModel\obj\Debug\net8.0\CommonModel.sourcelink.json
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\CommonModel\obj\Debug\net8.0\CommonModel.dll
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\CommonModel\obj\Debug\net8.0\refint\CommonModel.dll
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\CommonModel\obj\Debug\net8.0\CommonModel.pdb

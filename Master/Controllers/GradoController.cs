@@ -3,7 +3,8 @@ using Bussnies;
 using IBussniess;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using ResquestResponsModel;
+using ResquestResponsModel.Generic;
+using ResquestResponsModel.Grado;
 using System.Net;
 
 namespace Master.Controllers

@@ -28,6 +28,7 @@ F:\Proyects_VisualStudi\BACKEND\MasterClass-main\UtilitarioAutomapper\obj\Debug\
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\UtilitarioAutomapper\obj\Debug\net8.0\UtilitarioAutomapper.AssemblyInfoInputs.cache
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\UtilitarioAutomapper\obj\Debug\net8.0\UtilitarioAutomapper.AssemblyInfo.cs
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\UtilitarioAutomapper\obj\Debug\net8.0\UtilitarioAutomapper.csproj.CoreCompileInputs.cache
+F:\Proyects_VisualStudi\BACKEND\MasterClass-main\UtilitarioAutomapper\obj\Debug\net8.0\UtilitarioAutomapper.sourcelink.json
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\UtilitarioAutomapper\obj\Debug\net8.0\UtilitarioAutomapper.csproj.CopyComplete
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\UtilitarioAutomapper\obj\Debug\net8.0\UtilitarioAutomapper.dll
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\UtilitarioAutomapper\obj\Debug\net8.0\refint\UtilitarioAutomapper.dll

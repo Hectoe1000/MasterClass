@@ -1,4 +1,5 @@
 ﻿using BDMaster.Models.DB;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,6 +10,8 @@ namespace IRepository
 {
     public interface IUsuarioRepository:ICRUDRepository<Usuario>
     {
-
+        public Usuario ObtenerPorUserName(string username);
+        
+         
     }
 }

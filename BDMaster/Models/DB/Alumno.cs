@@ -7,7 +7,7 @@ public partial class Alumno
 {
     public int Idalumno { get; set; }
 
-    public byte[]? Foto { get; set; }
+    public string? Foto { get; set; }
 
     public int Idpersona { get; set; }
 

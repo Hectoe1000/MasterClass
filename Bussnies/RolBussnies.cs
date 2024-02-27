@@ -3,7 +3,7 @@ using BDMaster.Models.DB;
 using IBussniess;
 using IRepository;
 using Repository;
-using ResquestResponsModel;
+using ResquestResponsModel.Rol;
 using System;
 using System.Collections.Generic;
 using System.Linq;

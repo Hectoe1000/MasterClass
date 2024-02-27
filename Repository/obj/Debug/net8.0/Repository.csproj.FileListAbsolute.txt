@@ -31,6 +31,7 @@ F:\Proyects_VisualStudi\BACKEND\MasterClass-main\Repository\obj\Debug\net8.0\Rep
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+F:\Proyects_VisualStudi\BACKEND\MasterClass-main\Repository\obj\Debug\net8.0\Repository.sourcelink.json
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\Repository\obj\Debug\net8.0\Repository.csproj.CopyComplete
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\Repository\obj\Debug\net8.0\Repository.dll
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\Repository\obj\Debug\net8.0\refint\Repository.dll

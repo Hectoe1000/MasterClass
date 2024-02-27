@@ -351,7 +351,7 @@ public partial class AcademiaContext : DbContext
             entity.Property(e => e.IdUsuario)
                 .ValueGeneratedNever()
                 .HasColumnName("id_usuario");
-            entity.Property(e => e.Contraseña)
+            entity.Property(e => e.Contrasena)
                 .HasMaxLength(18)
                 .HasColumnName("contraseña");
             entity.Property(e => e.Email)

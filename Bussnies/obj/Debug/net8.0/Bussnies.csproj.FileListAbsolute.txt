@@ -64,6 +64,7 @@ F:\Proyects_VisualStudi\BACKEND\MasterClass-main\Bussnies\obj\Debug\net8.0\Bussn
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\Bussnies\obj\Debug\net8.0\Bussnies.AssemblyInfoInputs.cache
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\Bussnies\obj\Debug\net8.0\Bussnies.AssemblyInfo.cs
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\Bussnies\obj\Debug\net8.0\Bussnies.csproj.CoreCompileInputs.cache
+F:\Proyects_VisualStudi\BACKEND\MasterClass-main\Bussnies\obj\Debug\net8.0\Bussnies.sourcelink.json
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\Bussnies\obj\Debug\net8.0\Bussnies.csproj.CopyComplete
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\Bussnies\obj\Debug\net8.0\Bussnies.dll
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\Bussnies\obj\Debug\net8.0\refint\Bussnies.dll

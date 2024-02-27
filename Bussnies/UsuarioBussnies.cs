@@ -3,7 +3,7 @@ using BDMaster.Models.DB;
 using IBussniess;
 using IRepository;
 using Repository;
-using ResquestResponsModel;
+using ResquestResponsModel.Usuario;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -83,5 +83,11 @@ namespace Bussnies
             return cantidad;
         }
 
+        public UsuarioResponse BuscarPorNombre(string Email)
+        {
+            UsuarioResponse usuario=_mapper.Map<UsuarioResponse>(_UsuarioRepository.ObtenerPorUserName(Email));
+            return usuario;
+            
+        }
     }
-}
+} 

@@ -28,6 +28,7 @@ F:\Proyects_VisualStudi\BACKEND\MasterClass-main\IBussniess\obj\Debug\net8.0\IBu
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\IBussniess\obj\Debug\net8.0\IBussniess.AssemblyInfoInputs.cache
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\IBussniess\obj\Debug\net8.0\IBussniess.AssemblyInfo.cs
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\IBussniess\obj\Debug\net8.0\IBussniess.csproj.CoreCompileInputs.cache
+F:\Proyects_VisualStudi\BACKEND\MasterClass-main\IBussniess\obj\Debug\net8.0\IBussniess.sourcelink.json
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\IBussniess\obj\Debug\net8.0\IBussniess.csproj.CopyComplete
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\IBussniess\obj\Debug\net8.0\IBussniess.dll
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\IBussniess\obj\Debug\net8.0\refint\IBussniess.dll

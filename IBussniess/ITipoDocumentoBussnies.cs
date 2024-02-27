@@ -1,6 +1,6 @@
 ﻿
 using BDMaster.Models.DB;
-using ResquestResponsModel;
+using ResquestResponsModel.TipoDocumento;
 using System;
 using System.Collections.Generic;
 using System.Linq;

@@ -3,7 +3,8 @@ using Bussnies;
 using IBussniess;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using ResquestResponsModel;
+using ResquestResponsModel.Aula;
+using ResquestResponsModel.Generic;
 using System.Net;
 
 namespace Master.Controllers

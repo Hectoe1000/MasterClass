@@ -18,6 +18,7 @@ F:\Proyects_VisualStudi\BACKEND\MasterClass-main\UtilSecurity\obj\Debug\net8.0\U
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\UtilSecurity\obj\Debug\net8.0\UtilSecurity.AssemblyInfoInputs.cache
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\UtilSecurity\obj\Debug\net8.0\UtilSecurity.AssemblyInfo.cs
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\UtilSecurity\obj\Debug\net8.0\UtilSecurity.csproj.CoreCompileInputs.cache
+F:\Proyects_VisualStudi\BACKEND\MasterClass-main\UtilSecurity\obj\Debug\net8.0\UtilSecurity.sourcelink.json
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\UtilSecurity\obj\Debug\net8.0\UtilSecurity.dll
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\UtilSecurity\obj\Debug\net8.0\refint\UtilSecurity.dll
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\UtilSecurity\obj\Debug\net8.0\UtilSecurity.pdb

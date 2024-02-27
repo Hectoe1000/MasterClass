@@ -19,6 +19,7 @@ F:\Proyects_VisualStudi\BACKEND\MasterClass-main\ResquestResponsModel\obj\Debug\
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\ResquestResponsModel\obj\Debug\net8.0\ResquestResponsModel.AssemblyInfoInputs.cache
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\ResquestResponsModel\obj\Debug\net8.0\ResquestResponsModel.AssemblyInfo.cs
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\ResquestResponsModel\obj\Debug\net8.0\ResquestResponsModel.csproj.CoreCompileInputs.cache
+F:\Proyects_VisualStudi\BACKEND\MasterClass-main\ResquestResponsModel\obj\Debug\net8.0\ResquestResponsModel.sourcelink.json
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\ResquestResponsModel\obj\Debug\net8.0\ResquestResponsModel.dll
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\ResquestResponsModel\obj\Debug\net8.0\refint\ResquestResponsModel.dll
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\ResquestResponsModel\obj\Debug\net8.0\ResquestResponsModel.pdb

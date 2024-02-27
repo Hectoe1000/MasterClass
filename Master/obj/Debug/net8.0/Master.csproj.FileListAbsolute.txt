@@ -201,6 +201,7 @@ F:\Proyects_VisualStudi\BACKEND\MasterClass-main\Master\bin\Debug\net8.0\Microso
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\Master\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\Master\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\Master\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\Proyects_VisualStudi\BACKEND\MasterClass-main\Master\bin\Debug\net8.0\Newtonsoft.Json.dll
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\Master\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\Master\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\Master\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -313,6 +314,7 @@ F:\Proyects_VisualStudi\BACKEND\MasterClass-main\Master\obj\Debug\net8.0\Master.
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\Master\obj\Debug\net8.0\Master.csproj.CoreCompileInputs.cache
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\Master\obj\Debug\net8.0\Master.MvcApplicationPartsAssemblyInfo.cs
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\Master\obj\Debug\net8.0\Master.MvcApplicationPartsAssemblyInfo.cache
+F:\Proyects_VisualStudi\BACKEND\MasterClass-main\Master\obj\Debug\net8.0\Master.sourcelink.json
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\Master\obj\Debug\net8.0\staticwebassets.build.json
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\Master\obj\Debug\net8.0\staticwebassets.development.json
 F:\Proyects_VisualStudi\BACKEND\MasterClass-main\Master\obj\Debug\net8.0\staticwebassets\msbuild.Master.Microsoft.AspNetCore.StaticWebAssets.props

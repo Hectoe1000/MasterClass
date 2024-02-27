@@ -1,4 +1,4 @@
-﻿using ResquestResponsModel;
+﻿using ResquestResponsModel.Personal;
 using System;
 using System.Collections.Generic;
 using System.Linq;
