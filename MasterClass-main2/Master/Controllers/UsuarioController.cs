@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using Bussnies;
 using IBussniess;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using ResquestResponsModel.Generic;
@@ -11,6 +12,7 @@ namespace Master.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    //[Authorize]
     public class UsuarioController : ControllerBase
     {
         private readonly IUsuarioBussnies _UsuarioBussnies;
@@ -33,7 +35,12 @@ namespace Master.Controllers
         [ProducesResponseType((int)HttpStatusCode.BadRequest, Type = typeof(GenericResponse))]
         [ProducesResponseType((int)HttpStatusCode.InternalServerError, Type = typeof(GenericResponse))]
         public IActionResult Get()
+
         {
+            int a = 0, b = 5, c = 6;
+
+            //sabemos que no puede haber una división entre ==> 0
+            c = b / a;
             return Ok(_UsuarioBussnies.GetAll());
         }
         /// <summary>
@@ -47,6 +54,9 @@ namespace Master.Controllers
         [ProducesResponseType((int)HttpStatusCode.InternalServerError, Type = typeof(GenericResponse))]
         public IActionResult Get(int id)
         {
+
+           
+
             return Ok(_UsuarioBussnies.GetById(id));
         }
 

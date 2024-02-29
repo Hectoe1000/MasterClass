@@ -1,4 +1,5 @@
 
+using Master.Middeware;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
@@ -78,7 +79,7 @@ app.UseHttpsRedirection();
 
 app.UseAuthorization();
 app.UseAuthentication();
-
+app.UseMiddleware(typeof(ApiMiddelware));
 app.MapControllers();
 
 app.Run();

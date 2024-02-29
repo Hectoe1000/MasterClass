@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bussnies")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68150bd81fb1bdec61e87e3eca5d84a80d98b294")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+234138cac39b65554f0d7de5e2d2db2202269efd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bussnies")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bussnies")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
