@@ -2733,11 +2733,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\ResquestResponsModel\\ResquestResponsModel.csproj",
+      "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\ResquestResponsModel\\ResquestResponsModel.csproj",
       "projectName": "ResquestResponsModel",
-      "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\ResquestResponsModel\\ResquestResponsModel.csproj",
+      "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\ResquestResponsModel\\ResquestResponsModel.csproj",
       "packagesPath": "C:\\Users\\flans\\.nuget\\packages\\",
-      "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\ResquestResponsModel\\obj\\",
+      "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\ResquestResponsModel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\flans\\AppData\\Roaming\\NuGet\\NuGet.Config",

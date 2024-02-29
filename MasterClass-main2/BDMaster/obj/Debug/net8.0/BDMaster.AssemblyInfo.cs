@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BDMaster")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d58f692677495e3fad903900d8e30cf53bc73db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68150bd81fb1bdec61e87e3eca5d84a80d98b294")]
 [assembly: System.Reflection.AssemblyProductAttribute("BDMaster")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BDMaster")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

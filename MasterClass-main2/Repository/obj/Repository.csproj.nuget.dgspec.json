@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Repository\\Repository.csproj": {}
+    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Repository\\Repository.csproj": {}
   },
   "projects": {
-    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\BDMaster\\BDMaster.csproj": {
+    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\BDMaster\\BDMaster.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\BDMaster\\BDMaster.csproj",
+        "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\BDMaster\\BDMaster.csproj",
         "projectName": "BDMaster",
-        "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\BDMaster\\BDMaster.csproj",
+        "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\BDMaster\\BDMaster.csproj",
         "packagesPath": "C:\\Users\\flans\\.nuget\\packages\\",
-        "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\BDMaster\\obj\\",
+        "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\BDMaster\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\flans\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -93,14 +93,14 @@
         }
       }
     },
-    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\IRepository\\IRepository.csproj": {
+    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\IRepository\\IRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\IRepository\\IRepository.csproj",
+        "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\IRepository\\IRepository.csproj",
         "projectName": "IRepository",
-        "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\IRepository\\IRepository.csproj",
+        "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\IRepository\\IRepository.csproj",
         "packagesPath": "C:\\Users\\flans\\.nuget\\packages\\",
-        "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\IRepository\\obj\\",
+        "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\IRepository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\flans\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -117,8 +117,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\BDMaster\\BDMaster.csproj": {
-                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\BDMaster\\BDMaster.csproj"
+              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\BDMaster\\BDMaster.csproj": {
+                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\BDMaster\\BDMaster.csproj"
               }
             }
           }
@@ -158,14 +158,14 @@
         }
       }
     },
-    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Repository\\Repository.csproj": {
+    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Repository\\Repository.csproj",
+        "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Repository\\Repository.csproj",
+        "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\flans\\.nuget\\packages\\",
-        "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Repository\\obj\\",
+        "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\flans\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -182,8 +182,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\IRepository\\IRepository.csproj": {
-                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\IRepository\\IRepository.csproj"
+              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\IRepository\\IRepository.csproj": {
+                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\IRepository\\IRepository.csproj"
               }
             }
           }

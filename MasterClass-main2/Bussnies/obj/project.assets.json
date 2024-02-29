@@ -3203,11 +3203,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Bussnies\\Bussnies.csproj",
+      "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Bussnies\\Bussnies.csproj",
       "projectName": "Bussnies",
-      "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Bussnies\\Bussnies.csproj",
+      "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Bussnies\\Bussnies.csproj",
       "packagesPath": "C:\\Users\\flans\\.nuget\\packages\\",
-      "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Bussnies\\obj\\",
+      "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Bussnies\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\flans\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3224,38 +3224,38 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\BDMaster\\BDMaster.csproj": {
-              "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\BDMaster\\BDMaster.csproj"
+            "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\BDMaster\\BDMaster.csproj": {
+              "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\BDMaster\\BDMaster.csproj"
             },
-            "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\CommonModel\\CommonModel.csproj": {
-              "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\CommonModel\\CommonModel.csproj"
+            "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\CommonModel\\CommonModel.csproj": {
+              "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\CommonModel\\CommonModel.csproj"
             },
-            "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\IBussniess\\IBussniess.csproj": {
-              "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\IBussniess\\IBussniess.csproj"
+            "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\IBussniess\\IBussniess.csproj": {
+              "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\IBussniess\\IBussniess.csproj"
             },
-            "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\IRepository\\IRepository.csproj": {
-              "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\IRepository\\IRepository.csproj"
+            "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\IRepository\\IRepository.csproj": {
+              "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\IRepository\\IRepository.csproj"
             },
-            "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\IServices\\IServices.csproj": {
-              "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\IServices\\IServices.csproj"
+            "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\IServices\\IServices.csproj": {
+              "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\IServices\\IServices.csproj"
             },
-            "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Repository\\Repository.csproj": {
-              "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Repository\\Repository.csproj"
+            "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Repository\\Repository.csproj": {
+              "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Repository\\Repository.csproj"
             },
-            "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\ResquestResponsModel\\ResquestResponsModel.csproj": {
-              "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\ResquestResponsModel\\ResquestResponsModel.csproj"
+            "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\ResquestResponsModel\\ResquestResponsModel.csproj": {
+              "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\ResquestResponsModel\\ResquestResponsModel.csproj"
             },
-            "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Services\\Services.csproj": {
-              "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Services\\Services.csproj"
+            "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Services\\Services.csproj": {
+              "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Services\\Services.csproj"
             },
-            "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\UtilConstans\\UtilConstans.csproj": {
-              "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\UtilConstans\\UtilConstans.csproj"
+            "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\UtilConstans\\UtilConstans.csproj": {
+              "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\UtilConstans\\UtilConstans.csproj"
             },
-            "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\UtilitarioAutomapper\\UtilitarioAutomapper.csproj": {
-              "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\UtilitarioAutomapper\\UtilitarioAutomapper.csproj"
+            "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\UtilitarioAutomapper\\UtilitarioAutomapper.csproj": {
+              "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\UtilitarioAutomapper\\UtilitarioAutomapper.csproj"
             },
-            "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\UtilSecurity\\UtilSecurity.csproj": {
-              "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\UtilSecurity\\UtilSecurity.csproj"
+            "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\UtilSecurity\\UtilSecurity.csproj": {
+              "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\UtilSecurity\\UtilSecurity.csproj"
             }
           }
         }

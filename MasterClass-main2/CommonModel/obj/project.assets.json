@@ -2733,11 +2733,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\CommonModel\\CommonModel.csproj",
+      "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\CommonModel\\CommonModel.csproj",
       "projectName": "CommonModel",
-      "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\CommonModel\\CommonModel.csproj",
+      "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\CommonModel\\CommonModel.csproj",
       "packagesPath": "C:\\Users\\flans\\.nuget\\packages\\",
-      "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\CommonModel\\obj\\",
+      "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\CommonModel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\flans\\AppData\\Roaming\\NuGet\\NuGet.Config",

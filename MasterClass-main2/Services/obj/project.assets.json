@@ -2793,11 +2793,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Services\\Services.csproj",
+      "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Services\\Services.csproj",
+      "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Services\\Services.csproj",
       "packagesPath": "C:\\Users\\flans\\.nuget\\packages\\",
-      "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Services\\obj\\",
+      "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\flans\\AppData\\Roaming\\NuGet\\NuGet.Config",

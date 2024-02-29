@@ -54,11 +54,12 @@ namespace Bussnies
             result.Usuario = new UsuarioLoginResponse();
             result.Usuario.Email = usuario.Estado;
             result.Usuario.Contrasena= usuario.Rol;
-           
 
            
 
-            return result;
+           
+
+            return result; 
         }
     }
 }

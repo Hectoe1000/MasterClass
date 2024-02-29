@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XC0QyJcTj8O+BtU7jJDOt6nbZHYfBbCS7vy4lKfgogPoZIq1JreHPbanVEt25bIVjH8aUtHMIBWqoSNizq7j7w==",
+  "dgSpecHash": "RrAzI3QyoSlFlqrNrFaqhS0LlS1Q3M7zLst4JRDedwRSyhglzgocy9v0joNEzxNIDHRCqcflTnKJUTkkln6wJA==",
   "success": true,
-  "projectFilePath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\UtilitarioAutomapper\\UtilitarioAutomapper.csproj",
+  "projectFilePath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\UtilitarioAutomapper\\UtilitarioAutomapper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\flans\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\flans\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

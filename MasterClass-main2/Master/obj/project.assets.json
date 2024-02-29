@@ -5024,11 +5024,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Master\\Master.csproj",
+      "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Master\\Master.csproj",
       "projectName": "Master",
-      "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Master\\Master.csproj",
+      "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Master\\Master.csproj",
       "packagesPath": "C:\\Users\\flans\\.nuget\\packages\\",
-      "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Master\\obj\\",
+      "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Master\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\flans\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5045,23 +5045,23 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Bussnies\\Bussnies.csproj": {
-              "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Bussnies\\Bussnies.csproj"
+            "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Bussnies\\Bussnies.csproj": {
+              "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Bussnies\\Bussnies.csproj"
             },
-            "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\CommonModel\\CommonModel.csproj": {
-              "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\CommonModel\\CommonModel.csproj"
+            "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\CommonModel\\CommonModel.csproj": {
+              "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\CommonModel\\CommonModel.csproj"
             },
-            "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\IBussniess\\IBussniess.csproj": {
-              "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\IBussniess\\IBussniess.csproj"
+            "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\IBussniess\\IBussniess.csproj": {
+              "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\IBussniess\\IBussniess.csproj"
             },
-            "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\ResquestResponsModel\\ResquestResponsModel.csproj": {
-              "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\ResquestResponsModel\\ResquestResponsModel.csproj"
+            "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\ResquestResponsModel\\ResquestResponsModel.csproj": {
+              "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\ResquestResponsModel\\ResquestResponsModel.csproj"
             },
-            "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Services\\Services.csproj": {
-              "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Services\\Services.csproj"
+            "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Services\\Services.csproj": {
+              "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Services\\Services.csproj"
             },
-            "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\UtilSecurity\\UtilSecurity.csproj": {
-              "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\UtilSecurity\\UtilSecurity.csproj"
+            "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\UtilSecurity\\UtilSecurity.csproj": {
+              "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\UtilSecurity\\UtilSecurity.csproj"
             }
           }
         }

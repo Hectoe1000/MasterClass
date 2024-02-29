@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\UtilConstans\\UtilConstans.csproj": {}
+    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\UtilConstans\\UtilConstans.csproj": {}
   },
   "projects": {
-    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\UtilConstans\\UtilConstans.csproj": {
+    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\UtilConstans\\UtilConstans.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\UtilConstans\\UtilConstans.csproj",
+        "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\UtilConstans\\UtilConstans.csproj",
         "projectName": "UtilConstans",
-        "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\UtilConstans\\UtilConstans.csproj",
+        "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\UtilConstans\\UtilConstans.csproj",
         "packagesPath": "C:\\Users\\flans\\.nuget\\packages\\",
-        "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\UtilConstans\\obj\\",
+        "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\UtilConstans\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\flans\\AppData\\Roaming\\NuGet\\NuGet.Config",

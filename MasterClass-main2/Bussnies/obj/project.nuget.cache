@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vxqQIkDJSqLMtzV2vBUiq9AFJD1IfkTCBh3qAUkmhaZ7R0ZHJu3qTxKyAyILZKvc5Kk2UdCZ0xwHEpeTgeADNA==",
+  "dgSpecHash": "3KbZKINCSVrbCfATSeIVh4Vxe4fCS4xssWtooZtuOIBv3n7ii7YXM6nZPE5rcuNzkqF+FQD/+3eP9jrz6/PiFw==",
   "success": true,
-  "projectFilePath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Bussnies\\Bussnies.csproj",
+  "projectFilePath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Bussnies\\Bussnies.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\flans\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\flans\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

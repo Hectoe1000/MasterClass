@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "emA41FPJk3KXblG3xA/MOwF+T5O0JbkQu8U3cVkF3YkYYgoyhone9RMEyQn6+FZCozq16MlA2kFg/YYAEvFc0Q==",
+  "dgSpecHash": "RkOOOpSguCwXi63fjUeTfs9yN/nxgcWS4jQKRCPdJp/RmJemwBV3ee+Nn4XqmcriG6HrlTJhmN9wgYJ2Mp9bXg==",
   "success": true,
-  "projectFilePath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\IServices\\IServices.csproj",
+  "projectFilePath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\IServices\\IServices.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\flans\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\flans\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

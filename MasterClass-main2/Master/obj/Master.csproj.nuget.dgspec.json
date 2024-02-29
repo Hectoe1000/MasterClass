@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Master\\Master.csproj": {}
+    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Master\\Master.csproj": {}
   },
   "projects": {
-    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\BDMaster\\BDMaster.csproj": {
+    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\BDMaster\\BDMaster.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\BDMaster\\BDMaster.csproj",
+        "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\BDMaster\\BDMaster.csproj",
         "projectName": "BDMaster",
-        "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\BDMaster\\BDMaster.csproj",
+        "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\BDMaster\\BDMaster.csproj",
         "packagesPath": "C:\\Users\\flans\\.nuget\\packages\\",
-        "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\BDMaster\\obj\\",
+        "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\BDMaster\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\flans\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -93,14 +93,14 @@
         }
       }
     },
-    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Bussnies\\Bussnies.csproj": {
+    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Bussnies\\Bussnies.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Bussnies\\Bussnies.csproj",
+        "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Bussnies\\Bussnies.csproj",
         "projectName": "Bussnies",
-        "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Bussnies\\Bussnies.csproj",
+        "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Bussnies\\Bussnies.csproj",
         "packagesPath": "C:\\Users\\flans\\.nuget\\packages\\",
-        "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Bussnies\\obj\\",
+        "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Bussnies\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\flans\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -117,38 +117,38 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\BDMaster\\BDMaster.csproj": {
-                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\BDMaster\\BDMaster.csproj"
+              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\BDMaster\\BDMaster.csproj": {
+                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\BDMaster\\BDMaster.csproj"
               },
-              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\CommonModel\\CommonModel.csproj": {
-                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\CommonModel\\CommonModel.csproj"
+              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\CommonModel\\CommonModel.csproj": {
+                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\CommonModel\\CommonModel.csproj"
               },
-              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\IBussniess\\IBussniess.csproj": {
-                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\IBussniess\\IBussniess.csproj"
+              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\IBussniess\\IBussniess.csproj": {
+                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\IBussniess\\IBussniess.csproj"
               },
-              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\IRepository\\IRepository.csproj": {
-                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\IRepository\\IRepository.csproj"
+              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\IRepository\\IRepository.csproj": {
+                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\IRepository\\IRepository.csproj"
               },
-              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\IServices\\IServices.csproj": {
-                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\IServices\\IServices.csproj"
+              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\IServices\\IServices.csproj": {
+                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\IServices\\IServices.csproj"
               },
-              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Repository\\Repository.csproj": {
-                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Repository\\Repository.csproj"
+              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Repository\\Repository.csproj": {
+                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Repository\\Repository.csproj"
               },
-              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\ResquestResponsModel\\ResquestResponsModel.csproj": {
-                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\ResquestResponsModel\\ResquestResponsModel.csproj"
+              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\ResquestResponsModel\\ResquestResponsModel.csproj": {
+                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\ResquestResponsModel\\ResquestResponsModel.csproj"
               },
-              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Services\\Services.csproj": {
-                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Services\\Services.csproj"
+              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Services\\Services.csproj": {
+                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Services\\Services.csproj"
               },
-              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\UtilConstans\\UtilConstans.csproj": {
-                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\UtilConstans\\UtilConstans.csproj"
+              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\UtilConstans\\UtilConstans.csproj": {
+                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\UtilConstans\\UtilConstans.csproj"
               },
-              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\UtilitarioAutomapper\\UtilitarioAutomapper.csproj": {
-                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\UtilitarioAutomapper\\UtilitarioAutomapper.csproj"
+              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\UtilitarioAutomapper\\UtilitarioAutomapper.csproj": {
+                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\UtilitarioAutomapper\\UtilitarioAutomapper.csproj"
               },
-              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\UtilSecurity\\UtilSecurity.csproj": {
-                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\UtilSecurity\\UtilSecurity.csproj"
+              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\UtilSecurity\\UtilSecurity.csproj": {
+                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\UtilSecurity\\UtilSecurity.csproj"
               }
             }
           }
@@ -196,14 +196,14 @@
         }
       }
     },
-    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\CommonModel\\CommonModel.csproj": {
+    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\CommonModel\\CommonModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\CommonModel\\CommonModel.csproj",
+        "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\CommonModel\\CommonModel.csproj",
         "projectName": "CommonModel",
-        "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\CommonModel\\CommonModel.csproj",
+        "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\CommonModel\\CommonModel.csproj",
         "packagesPath": "C:\\Users\\flans\\.nuget\\packages\\",
-        "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\CommonModel\\obj\\",
+        "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\CommonModel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\flans\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -257,14 +257,14 @@
         }
       }
     },
-    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\IBussniess\\IBussniess.csproj": {
+    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\IBussniess\\IBussniess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\IBussniess\\IBussniess.csproj",
+        "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\IBussniess\\IBussniess.csproj",
         "projectName": "IBussniess",
-        "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\IBussniess\\IBussniess.csproj",
+        "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\IBussniess\\IBussniess.csproj",
         "packagesPath": "C:\\Users\\flans\\.nuget\\packages\\",
-        "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\IBussniess\\obj\\",
+        "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\IBussniess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\flans\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -281,11 +281,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\BDMaster\\BDMaster.csproj": {
-                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\BDMaster\\BDMaster.csproj"
+              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\BDMaster\\BDMaster.csproj": {
+                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\BDMaster\\BDMaster.csproj"
               },
-              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\ResquestResponsModel\\ResquestResponsModel.csproj": {
-                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\ResquestResponsModel\\ResquestResponsModel.csproj"
+              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\ResquestResponsModel\\ResquestResponsModel.csproj": {
+                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\ResquestResponsModel\\ResquestResponsModel.csproj"
               }
             }
           }
@@ -319,14 +319,14 @@
         }
       }
     },
-    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\IRepository\\IRepository.csproj": {
+    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\IRepository\\IRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\IRepository\\IRepository.csproj",
+        "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\IRepository\\IRepository.csproj",
         "projectName": "IRepository",
-        "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\IRepository\\IRepository.csproj",
+        "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\IRepository\\IRepository.csproj",
         "packagesPath": "C:\\Users\\flans\\.nuget\\packages\\",
-        "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\IRepository\\obj\\",
+        "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\IRepository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\flans\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -343,8 +343,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\BDMaster\\BDMaster.csproj": {
-                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\BDMaster\\BDMaster.csproj"
+              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\BDMaster\\BDMaster.csproj": {
+                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\BDMaster\\BDMaster.csproj"
               }
             }
           }
@@ -384,14 +384,14 @@
         }
       }
     },
-    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\IServices\\IServices.csproj": {
+    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\IServices\\IServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\IServices\\IServices.csproj",
+        "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\IServices\\IServices.csproj",
         "projectName": "IServices",
-        "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\IServices\\IServices.csproj",
+        "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\IServices\\IServices.csproj",
         "packagesPath": "C:\\Users\\flans\\.nuget\\packages\\",
-        "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\IServices\\obj\\",
+        "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\IServices\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\flans\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -445,14 +445,14 @@
         }
       }
     },
-    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Master\\Master.csproj": {
+    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Master\\Master.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Master\\Master.csproj",
+        "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Master\\Master.csproj",
         "projectName": "Master",
-        "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Master\\Master.csproj",
+        "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Master\\Master.csproj",
         "packagesPath": "C:\\Users\\flans\\.nuget\\packages\\",
-        "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Master\\obj\\",
+        "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Master\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\flans\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -469,23 +469,23 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Bussnies\\Bussnies.csproj": {
-                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Bussnies\\Bussnies.csproj"
+              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Bussnies\\Bussnies.csproj": {
+                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Bussnies\\Bussnies.csproj"
               },
-              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\CommonModel\\CommonModel.csproj": {
-                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\CommonModel\\CommonModel.csproj"
+              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\CommonModel\\CommonModel.csproj": {
+                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\CommonModel\\CommonModel.csproj"
               },
-              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\IBussniess\\IBussniess.csproj": {
-                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\IBussniess\\IBussniess.csproj"
+              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\IBussniess\\IBussniess.csproj": {
+                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\IBussniess\\IBussniess.csproj"
               },
-              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\ResquestResponsModel\\ResquestResponsModel.csproj": {
-                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\ResquestResponsModel\\ResquestResponsModel.csproj"
+              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\ResquestResponsModel\\ResquestResponsModel.csproj": {
+                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\ResquestResponsModel\\ResquestResponsModel.csproj"
               },
-              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Services\\Services.csproj": {
-                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Services\\Services.csproj"
+              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Services\\Services.csproj": {
+                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Services\\Services.csproj"
               },
-              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\UtilSecurity\\UtilSecurity.csproj": {
-                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\UtilSecurity\\UtilSecurity.csproj"
+              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\UtilSecurity\\UtilSecurity.csproj": {
+                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\UtilSecurity\\UtilSecurity.csproj"
               }
             }
           }
@@ -576,14 +576,14 @@
         }
       }
     },
-    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Repository\\Repository.csproj": {
+    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Repository\\Repository.csproj",
+        "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Repository\\Repository.csproj",
+        "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\flans\\.nuget\\packages\\",
-        "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Repository\\obj\\",
+        "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\flans\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -600,8 +600,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\IRepository\\IRepository.csproj": {
-                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\IRepository\\IRepository.csproj"
+              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\IRepository\\IRepository.csproj": {
+                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\IRepository\\IRepository.csproj"
               }
             }
           }
@@ -669,14 +669,14 @@
         }
       }
     },
-    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\ResquestResponsModel\\ResquestResponsModel.csproj": {
+    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\ResquestResponsModel\\ResquestResponsModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\ResquestResponsModel\\ResquestResponsModel.csproj",
+        "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\ResquestResponsModel\\ResquestResponsModel.csproj",
         "projectName": "ResquestResponsModel",
-        "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\ResquestResponsModel\\ResquestResponsModel.csproj",
+        "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\ResquestResponsModel\\ResquestResponsModel.csproj",
         "packagesPath": "C:\\Users\\flans\\.nuget\\packages\\",
-        "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\ResquestResponsModel\\obj\\",
+        "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\ResquestResponsModel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\flans\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -730,14 +730,14 @@
         }
       }
     },
-    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Services\\Services.csproj": {
+    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Services\\Services.csproj",
+        "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Services\\Services.csproj",
+        "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\flans\\.nuget\\packages\\",
-        "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\Services\\obj\\",
+        "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\flans\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -795,14 +795,14 @@
         }
       }
     },
-    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\UtilConstans\\UtilConstans.csproj": {
+    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\UtilConstans\\UtilConstans.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\UtilConstans\\UtilConstans.csproj",
+        "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\UtilConstans\\UtilConstans.csproj",
         "projectName": "UtilConstans",
-        "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\UtilConstans\\UtilConstans.csproj",
+        "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\UtilConstans\\UtilConstans.csproj",
         "packagesPath": "C:\\Users\\flans\\.nuget\\packages\\",
-        "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\UtilConstans\\obj\\",
+        "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\UtilConstans\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\flans\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -860,14 +860,14 @@
         }
       }
     },
-    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\UtilitarioAutomapper\\UtilitarioAutomapper.csproj": {
+    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\UtilitarioAutomapper\\UtilitarioAutomapper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\UtilitarioAutomapper\\UtilitarioAutomapper.csproj",
+        "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\UtilitarioAutomapper\\UtilitarioAutomapper.csproj",
         "projectName": "UtilitarioAutomapper",
-        "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\UtilitarioAutomapper\\UtilitarioAutomapper.csproj",
+        "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\UtilitarioAutomapper\\UtilitarioAutomapper.csproj",
         "packagesPath": "C:\\Users\\flans\\.nuget\\packages\\",
-        "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\UtilitarioAutomapper\\obj\\",
+        "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\UtilitarioAutomapper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\flans\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -884,11 +884,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\BDMaster\\BDMaster.csproj": {
-                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\BDMaster\\BDMaster.csproj"
+              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\BDMaster\\BDMaster.csproj": {
+                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\BDMaster\\BDMaster.csproj"
               },
-              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\ResquestResponsModel\\ResquestResponsModel.csproj": {
-                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\ResquestResponsModel\\ResquestResponsModel.csproj"
+              "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\ResquestResponsModel\\ResquestResponsModel.csproj": {
+                "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\ResquestResponsModel\\ResquestResponsModel.csproj"
               }
             }
           }
@@ -932,14 +932,14 @@
         }
       }
     },
-    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\UtilSecurity\\UtilSecurity.csproj": {
+    "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\UtilSecurity\\UtilSecurity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\UtilSecurity\\UtilSecurity.csproj",
+        "projectUniqueName": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\UtilSecurity\\UtilSecurity.csproj",
         "projectName": "UtilSecurity",
-        "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\UtilSecurity\\UtilSecurity.csproj",
+        "projectPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\UtilSecurity\\UtilSecurity.csproj",
         "packagesPath": "C:\\Users\\flans\\.nuget\\packages\\",
-        "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\UtilSecurity\\obj\\",
+        "outputPath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\UtilSecurity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\flans\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z6FgMpBih9MU+vE+QhNoqag7gJotJ0FOCEX/mdvzXpfz9A2dNW62uZWy2ECRUHvS42Xo0DSCiglzeu7V7Ss09A==",
+  "dgSpecHash": "TBTGBA6AY5aBgu3Wd59zdjrKkL3tomi5H0MEjP2Zq2zALGcFrqyS1t1eHHRP/YqXjIJg5J2qF1ZHRBCMIB4hTw==",
   "success": true,
-  "projectFilePath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\CommonModel\\CommonModel.csproj",
+  "projectFilePath": "F:\\Proyects_VisualStudi\\BACKEND\\MasterClass-main2\\MasterClass-main2\\CommonModel\\CommonModel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\flans\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\flans\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
